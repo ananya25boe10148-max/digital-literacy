@@ -107,4 +107,4 @@ Thanks for visiting!
 
 ---
 
-If you want, I can **customize this with your real name, stats, achievements, or make it more technical / more beginner-friendly**.
+
